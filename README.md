@@ -46,7 +46,7 @@ Soy un Ingeniero Mecatrónico apasionado por la **Infraestructura de Software** 
 ---
 
 ### 📫 Conecta conmigo
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jotama204)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jotama)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juanmanuelmedina551@gmail.com)
 
 ---
